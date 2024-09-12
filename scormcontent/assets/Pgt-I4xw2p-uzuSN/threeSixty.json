@@ -1,0 +1,32 @@
+{
+  "version": "3.90.32893.0",
+  "course_id": "5jwPCZfmUMJ",
+  "title": "accountability define",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5XAWNRIUt6B",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6EehrFHhitW",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

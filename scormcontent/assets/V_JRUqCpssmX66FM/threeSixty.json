@@ -1,0 +1,27 @@
+{
+  "version": "3.85.31840.0",
+  "course_id": "6S6qX48uqLG",
+  "title": "do you commit goal setting",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6r5cru9mqlb",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 635
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

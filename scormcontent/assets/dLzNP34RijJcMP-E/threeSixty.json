@@ -1,0 +1,72 @@
+{
+  "version": "3.90.32893.0",
+  "course_id": "5XLryUjjjT2",
+  "title": "smart goals",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6o4nTy4LYKa",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Ns5hfJxBpV",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5c3FDcRH0He",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6ra6zvT1Vlh",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6ZszZTRCgyV",
+      "title": "Untitled Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "630pi0b9q33",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5nP5QrQNdz0",
+      "title": "Untitled Slide",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5VE39wfvWpj",
+      "title": "Untitled Slide",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6XEuDXjm8pF",
+      "title": "Untitled Slide",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "65JQSLhPqnW",
+      "title": "Untitled Slide",
+      "scene_index": "1.10"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
